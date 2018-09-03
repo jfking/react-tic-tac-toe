@@ -1,13 +1,11 @@
 {
-  "name": "test-app-1",
+  "name": "react-tic-tac-toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.5",
-    "ts-loader": "^5.0.0",
-    "webpack": "^4.17.1"
+    "react-scripts": "1.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
